@@ -1,6 +1,6 @@
-# HR Insight 360
+# HR Insight
 
-**HR Insight 360** is an interactive Streamlit-based dashboard for analyzing employee leave patterns and payroll summaries within the context of a construction management ERP. This tool enables HR and top-level management to make data-driven decisions based on actionable workforce insights.
+**HR Insight** is an interactive Streamlit-based dashboard for analyzing employee leave patterns and payroll summaries within the context of a construction management ERP. This tool enables HR and top-level management to make data-driven decisions based on actionable workforce insights.
 
 ---
 
@@ -32,4 +32,4 @@
 
 ```bash
 git clone https://github.com/your-username/hr-insight-360.git
-cd hr-insight-360
+cd hr-insight
