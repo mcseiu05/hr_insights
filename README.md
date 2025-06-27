@@ -17,11 +17,11 @@
 ## 🗂️ Project Structure
 
 # hr_insights
-├── app.py # Main Streamlit app
-├── leave_data.csv # Sample HR leave data
-├── payroll_data.csv # Sample payroll data
-├── .gitignore # Ignore venv and IDE settings
-└── README.md
+-├── app.py # Main Streamlit app
+-├── leave_data.csv # Sample HR leave data
+-├── payroll_data.csv # Sample payroll data
+-├── .gitignore # Ignore venv and IDE settings
+-└── README.md
 
 
 ---
