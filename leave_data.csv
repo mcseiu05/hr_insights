@@ -1,10 +1,10 @@
 ProjectID,ProjectName,DepartmentID,DepartmentName,SalarySessionID,SessionName,EmployeeID,EmployeeCode,EmployeeFullName,TotalLeaveDays,UnplannedLeaveDays
-30172,Marva Enclave,3,Admin,50199,Jan 2025,152907,EMP1117,Maliha Rahman,3,0
-30172,Marva Enclave,3,Admin,50201,May 2025,122750,EMP1227,Lubna Hossain,2,2
-30172,Marva Enclave,3,Admin,50202,Jan 2025,122750,EMP1227,Lubna Hossain,1,1
-30172,Marva Enclave,3,Admin,50203,Apr 2025,152907,EMP1117,Maliha Rahman,2,0
-30172,Marva Enclave,3,Admin,50203,Apr 2025,162954,EMP1030,Lubna Sarker,4,1
-30172,Marva Enclave,5,Finance,50203,Apr 2025,122756,EMP1230,Rafi Khan,3,3GSR
+30172,Reveira,3,Admin,50199,Jan 2025,152907,EMP1117,Maliha Rahman,3,0
+30172,Reveira,3,Admin,50201,May 2025,122750,EMP1227,Lubna Hossain,2,2
+30172,Reveira,3,Admin,50202,Jan 2025,122750,EMP1227,Lubna Hossain,1,1
+30172,Reveira,3,Admin,50203,Apr 2025,152907,EMP1117,Maliha Rahman,2,0
+30172,Reveira,3,Admin,50203,Apr 2025,162954,EMP1030,Lubna Sarker,4,1
+30172,Reveira,5,Finance,50203,Apr 2025,122756,EMP1230,Rafi Khan,3,3GSR
 30161,Rest House,6,Admin,50203,Apr 2025,122452,EMP1145,Shanta Khan,1,1
 30161,Rest House,5,Finance,50199,Jan 2025,122786,EMP1245,Rafi Jahan,1,1
 30161,Rest House,5,Finance,50202,Jan 2025,122786,EMP1245,Rafi Jahan,1,1
@@ -71,12 +71,12 @@ ProjectID,ProjectName,DepartmentID,DepartmentName,SalarySessionID,SessionName,Em
 49,Execura,58,Finance,50203,Apr 2025,152906,EMP1116,Sohan Miah,1,1
 49,Execura,72,Finance,50203,Apr 2025,132861,EMP1186,Tariq Chowdhury,1,0
 49,Execura,72,Finance,50203,Apr 2025,152902,EMP1113,Tariq Chowdhury,1,1
-30185,ST Attalika,3,Admin,50199,Jan 2025,122521,EMP1152,Nadia Hossain,1,0
-30185,ST Attalika,3,Admin,50203,Apr 2025,122521,EMP1152,Nadia Hossain,1,0
-30185,ST Attalika,3,Admin,50203,Apr 2025,132846,EMP1179,Shanta Chowdhury,7,7
-30185,ST Attalika,3,Admin,50203,Apr 2025,162969,EMP1038,Shanta Ahmed,1,0
-30185,ST Attalika,55,Logistics,50198,Apr 2025,142865,EMP1135,Rafi Ahmed,1,1
-30185,ST Attalika,55,Logistics,50199,Jan 2025,142865,EMP1135,Rafi Ahmed,1,0
+30185,Attalika,3,Admin,50199,Jan 2025,122521,EMP1152,Nadia Hossain,1,0
+30185,Attalika,3,Admin,50203,Apr 2025,122521,EMP1152,Nadia Hossain,1,0
+30185,Attalika,3,Admin,50203,Apr 2025,132846,EMP1179,Shanta Chowdhury,7,7
+30185,Attalika,3,Admin,50203,Apr 2025,162969,EMP1038,Shanta Ahmed,1,0
+30185,Attalika,55,Logistics,50198,Apr 2025,142865,EMP1135,Rafi Ahmed,1,1
+30185,Attalika,55,Logistics,50199,Jan 2025,142865,EMP1135,Rafi Ahmed,1,0
 50200,Lakeview,3,Admin,50198,Apr 2025,162945,EMP1023,Nadia Sarker,4,4
 50200,Lakeview,3,Admin,50198,Apr 2025,162949,EMP1026,Sohan Ahmed,1,1
 50200,Lakeview,3,Admin,50199,Jan 2025,162949,EMP1026,Sohan Ahmed,2,2
@@ -87,8 +87,8 @@ ProjectID,ProjectName,DepartmentID,DepartmentName,SalarySessionID,SessionName,Em
 50200,Lakeview,72,Finance,50203,Apr 2025,111491,EMP1229,Abir Rahman,1,1
 40188,Lighthouse,4,Site Ops,50199,Jan 2025,152873,EMP1106,Maliha Hossain,6,6
 40188,Lighthouse,4,Site Ops,50203,Apr 2025,152873,EMP1106,Maliha Hossain,5,5
-50198,Amira Residency,3,Admin,50199,Jan 2025,132843,EMP1178,Maliha Miah,2,2
-50198,Amira Residency,4,Site Ops,50203,Apr 2025,122338,EMP1124,Abir Rahman,1,1
+30172,Reveira,3,Admin,50199,Jan 2025,132843,EMP1178,Maliha Miah,2,2
+30172,Reveira,4,Site Ops,50203,Apr 2025,122338,EMP1124,Abir Rahman,1,1
 30167,Karnaphuli Tunnel,3,Admin,50199,Jan 2025,122518,EMP1151,Rafi Jahan,1,1
 30167,Karnaphuli Tunnel,77,Engineering,50203,Apr 2025,122737,EMP1222,Lubna Khan,4,0
 30162,Megh Mallar,3,Admin,50198,Apr 2025,111465,EMP1217,Maliha Ahmed,1,1
@@ -108,8 +108,8 @@ ProjectID,ProjectName,DepartmentID,DepartmentName,SalarySessionID,SessionName,Em
 50193,Trinity,5,Finance,50198,Apr 2025,122469,EMP1148,Sadia Miah,3,3
 50193,Trinity,4,Site Ops,50199,Jan 2025,132859,EMP1184,Nadia Chowdhury,2,2
 50193,Trinity,4,Site Ops,50203,Apr 2025,132859,EMP1184,Nadia Chowdhury,1,1
-30133,Azure3,Admin,50203,Apr 2025,132822,EMP1167,Sohan Chowdhury,3,3
-40189,Dellvista,72,Finance,50198,Apr 2025,162982,EMP1044,Sadia Ahmed,1,1
+30133,Surjomukhi 3,Admin,50203,Apr 2025,132822,EMP1167,Sohan Chowdhury,3,3
+30172,Reveira,72,Finance,50198,Apr 2025,162982,EMP1044,Sadia Ahmed,1,1
 30162,Megh Mallar,3,Admin,50197,Feb 2025,122621,EMP1187,Tamim Ahmed,6,6
 30162,Megh Mallar,3,Admin,50199,Jan 2025,132836,EMP1173,Nadia Chowdhury,3,3
 30162,Megh Mallar,3,Admin,50202,Jan 2025,132836,EMP1173,Nadia Chowdhury,10,6
@@ -122,20 +122,20 @@ ProjectID,ProjectName,DepartmentID,DepartmentName,SalarySessionID,SessionName,Em
 30162,Megh Mallar,78,Finance,50199,Jan 2025,162951,EMP1028,Rafi Chowdhury,1,1
 30162,Megh Mallar,78,Finance,50203,Apr 2025,162951,EMP1028,Rafi Chowdhury,1,1
 30162,Megh Mallar,72,Finance,50199,Jan 2025,111522,EMP1246,Sohan Jahan,3,3
-30133,Azure,3,Admin,50203,Apr 2025,162947,EMP1024,Sadia Sarker,5,0
-30133,Azure,3,Admin,50203,Apr 2025,162962,EMP1035,Shanta Miah,2,2
-40187,Dhaka Elevated,3,Admin,50198,Apr 2025,132839,EMP1176,Sadia Ahmed,1,1
-40187,Dhaka Elevated,3,Admin,50198,Apr 2025,162923,EMP1009,Rafi Hossain,3,3
-40187,Dhaka Elevated,3,Admin,50199,Jan 2025,162923,EMP1009,Rafi Hossain,2,2
-40187,Dhaka Elevated,3,Admin,50203,Apr 2025,132839,EMP1176,Sadia Ahmed,7,7
-40187,Dhaka Elevated,5,Finance,50197,Feb 2025,111520,EMP1244,Nadia Khan,3,3
-40187,Dhaka Elevated,5,Finance,50199,Jan 2025,122434,EMP1141,Rafi Khan,3,3
-40187,Dhaka Elevated,4,Site Ops,50198,Apr 2025,122445,EMP1144,Tamim Khan,1,1
-40187,Dhaka Elevated,4,Site Ops,50203,Apr 2025,122445,EMP1144,Tamim Khan,1,1
-50198,Amira Residency,5,Finance,50203,Apr 2025,122386,EMP1136,Lubna Hossain,1,1
-50198,Amira Residency,79,Procurement,50197,Feb 2025,163012,EMP1067,Maliha Jahan,2,2
-50198,Amira Residency,79,Procurement,50198,Apr 2025,163012,EMP1067,Maliha Jahan,2,2
-50198,Amira Residency,79,Procurement,50199,Jan 2025,163012,EMP1067,Maliha Jahan,4,4
+30133,Surjomukhi,3,Admin,50203,Apr 2025,162947,EMP1024,Sadia Sarker,5,0
+30133,Surjomukhi,3,Admin,50203,Apr 2025,162962,EMP1035,Shanta Miah,2,2
+30133,Surjomukhi,3,Admin,50198,Apr 2025,132839,EMP1176,Sadia Ahmed,1,1
+30133,Surjomukhi,3,Admin,50198,Apr 2025,162923,EMP1009,Rafi Hossain,3,3
+30133,Surjomukhi,3,Admin,50199,Jan 2025,162923,EMP1009,Rafi Hossain,2,2
+30133,Surjomukhi,3,Admin,50203,Apr 2025,132839,EMP1176,Sadia Ahmed,7,7
+30133,Surjomukhi,5,Finance,50197,Feb 2025,111520,EMP1244,Nadia Khan,3,3
+30133,Surjomukhi,5,Finance,50199,Jan 2025,122434,EMP1141,Rafi Khan,3,3
+30133,Surjomukhi,4,Site Ops,50198,Apr 2025,122445,EMP1144,Tamim Khan,1,1
+30133,Surjomukhi,4,Site Ops,50203,Apr 2025,122445,EMP1144,Tamim Khan,1,1
+30172,Reveira,5,Finance,50203,Apr 2025,122386,EMP1136,Lubna Hossain,1,1
+30172,Reveira,79,Procurement,50197,Feb 2025,163012,EMP1067,Maliha Jahan,2,2
+30172,Reveira,79,Procurement,50198,Apr 2025,163012,EMP1067,Maliha Jahan,2,2
+30172,Reveira,79,Procurement,50199,Jan 2025,163012,EMP1067,Maliha Jahan,4,4
 30186,Gemini,3,Admin,50197,Feb 2025,122749,EMP1226,Tariq Jahan,2,2
 30186,Gemini,3,Admin,50198,Apr 2025,122634,EMP1191,Tamim Rahman,2,2
 30186,Gemini,3,Admin,50198,Apr 2025,122749,EMP1226,Tariq Jahan,3,0
@@ -146,9 +146,9 @@ ProjectID,ProjectName,DepartmentID,DepartmentName,SalarySessionID,SessionName,Em
 30186,Gemini,55,Logistics,50198,Apr 2025,132812,EMP1163,Maliha Jahan,11,11
 30186,Gemini,55,Logistics,50202,Jan 2025,122486,EMP1149,Tamim Sarker,2,2
 30186,Gemini,55,Logistics,50203,Apr 2025,132812,EMP1163,Maliha Jahan,2,2
-50199,Arvia,3,Admin,50197,Feb 2025,122633,EMP1190,Abir Sarker,1,1
-50199,Arvia,3,Admin,50197,Feb 2025,162948,EMP1025,Lubna Chowdhury,1,1
-50199,Arvia,3,Admin,50198,Apr 2025,122633,EMP1190,Abir Sarker,1,0
-50199,Arvia,3,Admin,50198,Apr 2025,122652,EMP1199,Rafi Rahman,4,4
-50199,Arvia,3,Admin,50199,Jan 2025,162948,EMP1025,Lubna Chowdhury,1,0
-50199,Arvia,4,Site Ops,50203,Apr 2025,111512,EMP1239,Shanta Jahan,2,2
+30133,Surjomukhi,3,Admin,50197,Feb 2025,122633,EMP1190,Abir Sarker,1,1
+30133,Surjomukhi,3,Admin,50197,Feb 2025,162948,EMP1025,Lubna Chowdhury,1,1
+30133,Surjomukhi,3,Admin,50198,Apr 2025,122633,EMP1190,Abir Sarker,1,0
+30133,Surjomukhi,3,Admin,50198,Apr 2025,122652,EMP1199,Rafi Rahman,4,4
+30133,Surjomukhi,3,Admin,50199,Jan 2025,162948,EMP1025,Lubna Chowdhury,1,0
+30133,Surjomukhi,4,Site Ops,50203,Apr 2025,111512,EMP1239,Shanta Jahan,2,2
