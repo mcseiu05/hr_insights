@@ -1,67 +1,57 @@
-📊 HR Insights Dashboard
-HR Insights Dashboard is an interactive Streamlit-based application designed for analyzing employee leave patterns and payroll summaries. Tailored for construction management ERP contexts, this tool empowers HR professionals and top-level management to derive actionable workforce insights and make data-driven decisions.
+# 📊 HR Insights Dashboard
 
-✨ Features
-Data Integration: Seamlessly integrates leave and payroll data.
+**HR Insights Dashboard** is an interactive Streamlit-based application designed for analyzing employee leave patterns and payroll summaries. Tailored for construction management ERP contexts, this tool empowers HR professionals and top-level management to derive actionable workforce insights and make data-driven decisions.
 
-Visual Summaries: Provides clear visual summaries of total leaves, unplanned leaves, and key payroll metrics.
+---
 
-Dynamic Filtering: Allows filtering of data by specific projects and salary sessions for targeted analysis.
+## ✨ Features
 
-Key Employee Insights: Highlights critical employee patterns to support informed management decisions.
+* **Data Integration:** Seamlessly integrates leave and payroll data from CSV files.
+* **Visual Summaries:** Provides clear visual summaries of total leaves, unplanned leaves, and key payroll metrics.
+* **Dynamic Filtering:** Allows filtering of data by specific projects and salary sessions for targeted analysis.
+* **Key Employee Insights:** Highlights critical employee patterns to support informed management decisions.
+* **Intuitive Charts:** Presents data through easy-to-understand charts for quick comprehension of workforce trends.
 
-Intuitive Charts: Presents data through easy-to-understand charts for quick comprehension of workforce trends.
+---
 
-🚀 Getting Started
+## 🚀 Getting Started
+
 Follow these steps to set up and run the HR Insights Dashboard on your local machine.
 
-Prerequisites
-Ensure you have Python 3.8 or higher installed.
+### Prerequisites
 
-Installation
-Clone the repository:
+Ensure you have **Python 3.8 or higher** installed.
 
-git clone https://github.com/mcseiu05/hr_insights.git
-cd hr_insights
+### Installation
 
-Create and activate a virtual environment:
-It's highly recommended to use a virtual environment to manage project dependencies.
+1.  **Clone the repository:**
 
-python -m venv venv
+    ```bash
+    git clone [https://github.com/mcseiu05/hr_insights.git](https://github.com/mcseiu05/hr_insights.git)
+    cd hr_insights
+    ```
 
-On Windows:
+2.  **Create and activate a virtual environment:**
+    It's highly recommended to use a virtual environment to manage project dependencies.
 
-.\venv\Scripts\activate
+    ```bash
+    python -m venv venv
+    ```
 
-On macOS/Linux:
+    * **On Windows:**
+        ```bash
+        .\venv\Scripts\activate
+        ```
 
-source venv/bin/activate
+3.  **Install the required packages:**
 
-Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-pip install -r requirements.txt
+### Running the App
 
-Running the App
 With your virtual environment activated, run the Streamlit application:
 
+```bash
 streamlit run app.py
-
-This will open the HR Insights Dashboard in your default web browser.
-
-📁 Project Structure
-hr_insights/
-├── .gitignore          # Specifies intentionally untracked files (e.g., virtual environment, IDE settings)
-├── README.md           # This file: provides project overview, features, and setup instructions
-├── app.py              # The main Streamlit application script
-├── leave_data.csv      # Sample dataset for HR leave analysis
-├── payroll_data.csv    # Sample dataset for payroll information
-└── requirements.txt    # Lists all Python package dependencies required for the project
-
-🤝 Contributing
-Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
-
-📄 License
-This project is open-source and available under the MIT License. (Note: If you don't have a https://www.google.com/search?q=LICENSE file, you might want to create one or remove this section.)
-
-📞 Contact
-For any questions or inquiries, please contact [Your Name/Email/LinkedIn Profile].
