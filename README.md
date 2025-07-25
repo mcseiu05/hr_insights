@@ -54,3 +54,39 @@ With your virtual environment activated, run the Streamlit application:
 
 ```bash
 streamlit run app.py
+ ```
+### 📌 Use Cases – HR Insight 360 Dashboard
+**The HR Insight 360 Dashboard provides a comprehensive view of employee leave and payroll data, helping HR teams, managers, and leadership make informed decisions.**
+
+**🚀 Key Use Cases:**
+🔹 Strategic Workforce Planning
+Detect leave trends across departments/projects
+
+Plan staffing and ensure business continuity
+
+🔹 Performance & Productivity Insights
+Measure absenteeism impact on productivity
+
+Identify disengaged teams through leave behavior
+
+🔹 Payroll & Cost Management
+Ensure payroll data accuracy and detect anomalies
+
+Analyze daily employee cost for budgeting
+
+🔹 Compliance Monitoring
+Track unplanned leave vs. policy adherence
+
+Review compensation fairness and consistency
+
+🔹 Individual Employee Insights
+Support performance evaluations with data
+
+Flag high-leave employees for support/intervention
+
+🔹 Reporting & Communication
+Deliver clear HR metrics to senior management
+
+Share actionable reports with department heads
+
+💡 With interactive filters and visuals, users can uncover insights quickly to build a healthier, more efficient workplace.
