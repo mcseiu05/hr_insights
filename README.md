@@ -27,18 +27,18 @@ Ensure you have **Python 3.8 or higher** installed.
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/mcseiu05/hr_insights.git](https://github.com/mcseiu05/hr_insights.git)
+    git clone https://github.com/mcseiu05/hr_insights.git
     cd hr_insights
     ```
 
-2.  **Create and activate a virtual environment:**
+2.  **Create and activate a virtual environment On Windows:**
     It's highly recommended to use a virtual environment to manage project dependencies.
 
     ```bash
     python -m venv venv
     ```
 
-    * **On Windows:**
+    * ****
         ```bash
         .\venv\Scripts\activate
         ```
