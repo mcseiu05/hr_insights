@@ -38,10 +38,9 @@ Ensure you have **Python 3.8 or higher** installed.
     python -m venv venv
     ```
 
-    * ****
-        ```bash
-        .\venv\Scripts\activate
-        ```
+    ```bash
+    .\venv\Scripts\activate
+    ```
 
 3.  **Install the required packages:**
 
