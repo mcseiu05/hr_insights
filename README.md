@@ -55,38 +55,34 @@ With your virtual environment activated, run the Streamlit application:
 ```bash
 streamlit run app.py
  ```
+
 ### 📌 Use Cases – HR Insight 360 Dashboard
-**The HR Insight 360 Dashboard provides a comprehensive view of employee leave and payroll data, helping HR teams, managers, and leadership make informed decisions.**
+1. **Strategic Workforce Planning**
 
-**🚀 Key Use Cases:**
-🔹 Strategic Workforce Planning
-Detect leave trends across departments/projects
+    * Detect leave trends by department/project
+    * Plan staffing based on historical leave patterns
 
-Plan staffing and ensure business continuity
+2. **Performance & Productivity Insights**
 
-🔹 Performance & Productivity Insights
-Measure absenteeism impact on productivity
+    * Assess absenteeism impact on productivity
+    * Spot low engagement through unplanned leave patterns
 
-Identify disengaged teams through leave behavior
+3. **Payroll & Cost Management**
 
-🔹 Payroll & Cost Management
-Ensure payroll data accuracy and detect anomalies
+    * Ensure payroll accuracy and flag anomalies
+    * Analyze daily cost per employee for budgeting
 
-Analyze daily employee cost for budgeting
+4. **Compliance Monitoring**
 
-🔹 Compliance Monitoring
-Track unplanned leave vs. policy adherence
+    * Track unplanned leaves vs. company policy
+    * Validate fair and consistent compensation
 
-Review compensation fairness and consistency
+5. **Individual Employee Insights**
 
-🔹 Individual Employee Insights
-Support performance evaluations with data
+    * Support performance reviews with leave/pay data
+    * Identify employees needing attention or support
 
-Flag high-leave employees for support/intervention
+6. **Reporting & Communication**
 
-🔹 Reporting & Communication
-Deliver clear HR metrics to senior management
-
-Share actionable reports with department heads
-
-💡 With interactive filters and visuals, users can uncover insights quickly to build a healthier, more efficient workplace.
+    * Present HR metrics to leadership clearly
+    * Provide department-level reports for team leads
