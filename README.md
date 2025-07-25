@@ -17,11 +17,11 @@
 ## 🗂️ Project Structure
 
 # hr_insights
--├── app.py # Main Streamlit app
--├── leave_data.csv # Sample HR leave data
--├── payroll_data.csv # Sample payroll data
--├── .gitignore # Ignore venv and IDE settings
--└── README.md
+-app.py # Main Streamlit app
+-leave_data.csv # Sample HR leave data
+-payroll_data.csv # Sample payroll data
+-.gitignore # Ignore venv and IDE settings
+-README.md
 
 
 ---
@@ -31,5 +31,5 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/hr-insight-360.git
-cd hr-insight
+git clone https://github.com/mcseiu05/hr_insights.git
+cd hr-insights
