@@ -1,10 +1,10 @@
-# 📊 HR Insights Dashboard
+# HR Insights Dashboard
 
 **HR Insights Dashboard** is an interactive Streamlit-based application designed for analyzing employee leave patterns and payroll summaries. Tailored for construction management ERP contexts, this tool empowers HR professionals and top-level management to derive actionable workforce insights and make data-driven decisions.
 
 ---
 
-## ✨ Features
+## Features
 
 * **Data Integration:** Seamlessly integrates leave and payroll data from CSV files.
 * **Visual Summaries:** Provides clear visual summaries of total leaves, unplanned leaves, and key payroll metrics.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the HR Insights Dashboard on your local machine.
 
@@ -56,7 +56,7 @@ With your virtual environment activated, run the Streamlit application:
 streamlit run app.py
  ```
 
-### 📌 Use Cases – HR Insight 360 Dashboard
+### Use Cases – HR Insight 360 Dashboard
 1. **Strategic Workforce Planning**
 
     * Detect leave trends by department/project
